@@ -1,0 +1,4 @@
+﻿file,is_defect,ratio,method
+exp1_num_10903.png,True,0.010817307692307692,canny
+exp1_num_262480.png,True,0.01722522390965732,canny
+exp0_num_743.png,True,0.01268262987012987,canny
