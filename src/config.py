@@ -13,5 +13,4 @@ CANNY_HIGH = 150
 MIN_DEFECT_AREA = 50
 AREA_THRESHOLD_RATIO = 0.01
 
-# Method: "canny" or "sobel"
 METHOD = "canny"
